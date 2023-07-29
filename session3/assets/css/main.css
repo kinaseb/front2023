@@ -1,0 +1,230 @@
+/* .box  { */
+    /* width: 100px;
+    height: 100px;
+    background: red; */
+    /* margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 10px; */
+    /* margin: 30px 0 10px 50px;  */
+    /* trbl */
+    /* margin: 50px 100px; */
+    /* margin: 100px; */
+    /* margin: 100px auto; */
+/* } */
+
+/* .item {
+    width: 100px;
+    height: 100px;
+    background: green;
+} */
+
+
+
+/* 
+.box {
+    width: 90%;
+    height: 400px;
+    background: gray;
+    margin: 100px auto 100px;
+} */
+
+
+/* .container {
+    width: 200px;
+    height: 200px;
+    background: brown;
+
+} */
+
+/* .child {
+    width: 100px;
+    height: 100px;
+    background: green;
+} */
+
+
+/* .container{
+    width: 90%;
+ 
+    margin: auto;
+} */
+
+/* .item {
+    width: 22%;
+    height: 90%;
+    display: inline-block;
+    margin-left: 2%;
+} */
+
+/* .item-img {
+    width: 100%;
+    height: 80%;
+} */
+
+/* .item-img img  {
+    width: 100%;
+    height: 100%;
+} */
+
+/* .item-info {
+    width: 100%;
+    height: 20%;
+    text-align: right;
+} */
+
+/* .red , .green , .blue , .yellow {
+    width: 100px;
+    height: 100px;
+}
+.clr {
+    clear: both;
+}
+.red {
+    background: red;
+    float: right;
+}
+.green {
+    background: green;
+}
+.blue {
+    background: blue;
+}
+.yellow {
+    background: yellow;
+} */
+
+/* 
+.container {
+    width: 90%;
+    height: 600px;
+    background: gray;
+    margin: auto;
+} */
+
+/* .item {
+    width: 50%;
+    height: 100%;
+    float: left;
+    background: red;
+} */
+
+/* .item img  {
+    width: 100%;
+    height: 100%;
+} */
+
+/* .item {
+    margin-left: 1%;  
+    float: left;
+    background: red;
+    width: 24%;
+    height: 100%;
+} */
+
+/* 
+.container {
+    width: 90%;
+    height: 200px;
+    background: gainsboro;
+    margin: auto;
+}
+
+.item {
+    float: left;
+    width: 30%;
+    height: 100%;
+    background: goldenrod;
+    margin-left: 2%;
+}
+
+
+.item-icon {
+    width: 20%;
+    height: 100%;
+    background: blueviolet;
+    float: left;
+}
+
+.item-icon img  {
+    margin-top: 20%;
+    margin-left: 15%;
+}
+
+.item-info {
+    float: left;
+    width: 80%;
+    height: 100%;
+    background: reds;
+} */
+/* 
+body {
+    height: 2000px;
+}
+
+.navbar {
+    width: 100%;
+    height: 70px;
+    position: sticky;
+    background: rgba(202, 202, 202, 0.375);
+    border-radius: 3%;
+    top: 0;
+    left: 0;
+}
+
+.navbar-logo {
+    border-radius: 3%;
+    width: 14%;
+    height: 100%;
+    background: rgba(0, 128, 0, 0.297);
+    float: left;
+}
+
+.navbar-links {
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+.navbar-links ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 10%;
+}
+.navbar-links ul li a {
+    text-decoration: none;
+    color: green;
+    font-size: 20px;
+    transition: 1s all;
+}
+
+.navbar-links ul li:hover a {
+    color:rgb(0, 0, 0)
+} 
+
+.navbar-logo span {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;  
+    display: block;
+}
+
+.navbar-logo span::first-letter {
+    color:rgb(104, 175, 104);
+} */
+
+
+.box {
+    width: 300px;
+    height: 300px;
+    background: red;
+    position: relative;
+}
+
+.child  {
+    width: 100px;
+    height: 100px;
+    background: green;
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%);
+}
