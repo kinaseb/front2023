@@ -1,0 +1,6 @@
+- overflow ///
+- transition
+- transform
+- opacity
+- background img 
+- animation
