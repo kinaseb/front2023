@@ -1,0 +1,7 @@
+- var ///
+- google font /// 
+- fontawsome ///
+- animation
+- background img 
+- flex 
+- grid 

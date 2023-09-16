@@ -1,6 +1,6 @@
 - overflow ///
-- transition
-- transform
-- opacity
+- transition ///
+- transform ///
+- opacity //
 - background img 
 - animation

@@ -1,0 +1,6 @@
+- js
+    - var 
+    - conditions 
+    - loop 
+    - array 
+- git and github 

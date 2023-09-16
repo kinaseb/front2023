@@ -1,0 +1,6 @@
+- animation //
+- background img  //
+- flex // 
+- grid 
+- media query 
+- css methodology
