@@ -5,3 +5,9 @@
 1- https://leetcode.com/problems/add-two-integers/
 2 - https://leetcode.com/problems/running-sum-of-1d-array/
 3 - https://leetcode.com/problems/reverse-words-in-a-string-iii/
+
+next 
+git and github 
+function 
+switch , ternary 
+intro dom 
