@@ -25,6 +25,17 @@
     border-radius: 7%;
     border: none;
 }
+.btn-update {
+    padding: 10px 15px;
+    background: blue;
+    font-size: 30px;
+    color: white;
+    border-radius: 7%;
+    border: none;
+}
+.btn-update:hover {
+    cursor: pointer;
+}
 .btn:hover {
     cursor: pointer;
 }
